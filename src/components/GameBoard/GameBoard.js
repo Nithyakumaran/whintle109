@@ -10,7 +10,7 @@ const GameBoard = () => {
   const [word, setWord] = useState("");
   const [hint, setHint] = useState("");
   const [guess, setGuess] = useState("");
-  const [guesses, setGuesses] = useState([]); 
+
   const [score, setScore] = useState(0);
   const [message, setMessage] = useState("");
   const [feedbacks, setFeedbacks] = useState([]);

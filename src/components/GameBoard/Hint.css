@@ -1,0 +1,13 @@
+.hint {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.hint-text {
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+.hint-value {
+  font-weight: normal;
+}
